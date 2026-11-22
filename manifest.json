@@ -1,0 +1,52 @@
+[
+  {
+    "archivo": "01_preprocesamiento.ipynb",
+    "original": "Preprocesamiento_Base_Depurada_Red_Neuronal(2).ipynb",
+    "celdas": 16,
+    "celdas_codigo": 15,
+    "bloques_salida_borrados": 0,
+    "tamano_original_kb": 15.4,
+    "tamano_publico_kb": 15.4,
+    "sha256": "a907ca481694f57b54d2096e90dcd43b79cf2ec4faf7c20657034967581aff17"
+  },
+  {
+    "archivo": "02_entrenamiento_mlp_v1.ipynb",
+    "original": "red_neuronal_test1_resultados_preliminares_consolidado(1).ipynb",
+    "celdas": 49,
+    "celdas_codigo": 22,
+    "bloques_salida_borrados": 25,
+    "tamano_original_kb": 450.6,
+    "tamano_publico_kb": 35.5,
+    "sha256": "1e220ab451b2519ed55ba99c9c0c603da47306f111d302042c9e4137473baffe"
+  },
+  {
+    "archivo": "03_entrenamiento_mlp_v2.ipynb",
+    "original": "MLP_Desercion_V2_experimental_validado(2).ipynb",
+    "celdas": 45,
+    "celdas_codigo": 24,
+    "bloques_salida_borrados": 31,
+    "tamano_original_kb": 541.3,
+    "tamano_publico_kb": 45.6,
+    "sha256": "9561f32ce61e8355c4a96abfef6533c4d1ae59164a6d705bb45d7c7ace2de117"
+  },
+  {
+    "archivo": "04_validacion_cruzada_5fold_v1_v2.ipynb",
+    "original": "Validacion_Cruzada_5Fold_V1_V2(1).ipynb",
+    "celdas": 36,
+    "celdas_codigo": 18,
+    "bloques_salida_borrados": 17,
+    "tamano_original_kb": 229.0,
+    "tamano_publico_kb": 55.1,
+    "sha256": "f6ded96ec398146e07e423ab1bb56eeed3dcaece4969646496278c608e527076"
+  },
+  {
+    "archivo": "05_medicion_latencia_mlp_v1.ipynb",
+    "original": "Medicion_Tiempo_Respuesta_MLP_V1.ipynb",
+    "celdas": 11,
+    "celdas_codigo": 5,
+    "bloques_salida_borrados": 10,
+    "tamano_original_kb": 114.7,
+    "tamano_publico_kb": 17.6,
+    "sha256": "ff5a67ba5f283b10d58325a8492ddebb8605f05bfd85ae1b757a08da594672c3"
+  }
+]

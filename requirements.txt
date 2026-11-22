@@ -1,0 +1,7 @@
+# Dependencias generales para consulta; instalar versiones compatibles con el notebook.
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+openpyxl
