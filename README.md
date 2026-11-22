@@ -25,7 +25,3 @@ La publicación del código no constituye autorización para divulgar los datos 
 ## Alcance
 
 Prueba de concepto de clasificación *retrospectiva* sobre una muestra histórica. No constituye una implementación institucional de alertas tempranas ni valida la fecha futura de abandono.
-
-## Nota sobre otros cuadernos exploratorios
-
-Existe un notebook adicional de ACP/PCA utilizado en una fase exploratoria anterior; no forma parte de estos cinco notebooks principales de preprocesamiento, entrenamiento, comparación y latencia. Puede incorporarse posteriormente si se decide publicar también el análisis exploratorio.
